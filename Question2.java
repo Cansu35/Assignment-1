@@ -5,3 +5,7 @@ public class Question2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Turing, Alan");
+
+	}
+
+}
